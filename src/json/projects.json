@@ -1,30 +1,30 @@
 [
     {
-        "image": "image url",
+        "image": "https://i.imgur.com/JQFOgjk.png",
         "name": "NBA Player Stats",
         "description": "App that looks up a player's stats + technologies used",
-        "github": "github link",
-        "live": "url of project"
+        "github": "https://github.com/SonsOfMagnetism/nba-player-stats",
+        "live": "https://nba-player-stats.vercel.app/"
+    },
+    {
+        "image": "https://i.imgur.com/MWTt39D.png",
+        "name": "My Anime Watchlist",
+        "description": "A web application that will allow a user to create an account and keep track of any anime they are currrently watching or have completed watching.",
+        "github": "https://www.github.com/SonsOfMagnetism/anime-watchlist",
+        "live": "https://anime-watchlist.herokuapp.com/"
     },
     {
         "image": "image url",
-        "name": "NBA Player Stats",
-        "description": "App that looks up a player's stats + technologies used",
-        "github": "github link",
-        "live": "url of project"
+        "name": "My Events",
+        "description": "App that works as an event planner",
+        "github": "https://github.com/Alex-dev7/Project3-myEvents-frontend",
+        "live": "https://myevents-s.netlify.app/"
     },
     {
         "image": "image url",
-        "name": "NBA Player Stats",
-        "description": "App that looks up a player's stats + technologies used",
-        "github": "github link",
-        "live": "url of project"
-    },
-    {
-        "image": "image url",
-        "name": "NBA Player Stats",
-        "description": "App that looks up a player's stats + technologies used",
-        "github": "github link",
+        "name": "Photography Portfolio",
+        "description": "An application that works as a portfolio for a photographer",
+        "github": "https://github.com/SonsOfMagnetism/photography-frontend",
         "live": "url of project"
     }
 ]

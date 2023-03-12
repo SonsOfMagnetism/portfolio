@@ -7,11 +7,11 @@ export default function Projects(){
             projects.map((project) => (
                 <ProjectCard key={project.name}>
                     <h3>{project.name}</h3>
-                    <ProjectImage src={project.img} />
+                    <ProjectImage src={project.image} />
                     <ProjectDescription>{project.description}</ProjectDescription>
                     <ProjectLinkContainer>
-                    <ProjectLink href="{project.github}">Github</ProjectLink>
-                    <ProjectLink href="{project.live}">Live Site</ProjectLink>
+                    <ProjectLink href={project.github} target="_blank">Github</ProjectLink>
+                    <ProjectLink href={project.live} target="_blank">Live Site</ProjectLink>
                     </ProjectLinkContainer>
                 </ProjectCard>
             ))
