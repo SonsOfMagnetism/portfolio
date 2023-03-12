@@ -14,7 +14,7 @@
         "live": "https://anime-watchlist.herokuapp.com/"
     },
     {
-        "image": "image url",
+        "image": "https://i.imgur.com/2ACHl3W.png",
         "name": "My Events",
         "description": "App that works as an event planner",
         "github": "https://github.com/Alex-dev7/Project3-myEvents-frontend",
