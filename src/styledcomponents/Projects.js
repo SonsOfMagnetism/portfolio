@@ -4,7 +4,7 @@ import styled from "styled-components"
 export const ProjectsContainer = styled.section`
 display: flex;
 flex-wrap: wrap;
-padding: 10%;
+padding: 1%;
 justify-content: space-around;
 background-color: ${theme.color2};
 `
@@ -36,8 +36,8 @@ border-radius: 20px;
 background-color: ${theme.color4};
 color: ${theme.color2};
 &:hover {
-    background-color: ${theme.color2};
-    color: ${theme.color4};
+    background-color: ${theme.color3};
+    color: ${theme.color1};
 }
 `
 

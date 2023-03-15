@@ -4,10 +4,11 @@ import { BioContainer, BioImage } from "../styledcomponents/Bio"
 export default function Bio(props){
     return (
         <BioContainer>
-            <h1>{about.name}</h1>
+            <h1 style={{padding:"25px"}}>Atlanta, GA</h1>
             <BioImage src={about.image}/>
-            <h3>{about.email}</h3>
-            <p>{about.bio}</p>
+            <h1 style={{paddingTop:"25px"}}>{about.email}</h1>
+            <br/>
+            <p style={{paddingBottom:"25px"}}>{about.bio}</p>
         </BioContainer>
     )
 }
