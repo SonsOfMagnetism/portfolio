@@ -3,6 +3,6 @@ import styled from "styled-components"
 
 export const ProjectsHead = styled.section`
 text-align: center;
-padding-top: 25px;
-background-color: ${theme.color2};
+// background-color: ${theme.color2};
+color: ${theme.color2}
 `

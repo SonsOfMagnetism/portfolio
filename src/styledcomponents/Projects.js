@@ -6,7 +6,7 @@ display: flex;
 flex-wrap: wrap;
 padding: 1%;
 justify-content: space-around;
-background-color: ${theme.color2};
+// background-color: ${theme.color2};
 `
 
 export const ProjectCard = styled.div`
@@ -17,7 +17,8 @@ margin: 10px;
 background-color: ${theme.color1}
 border-radius: 20px;
 padding: 10px;
-border: 3px solid ${theme.color3}
+border: 3px solid ${theme.color3};
+color: ${theme.color2}
 `
 
 export const ProjectImage = styled.img`
