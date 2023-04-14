@@ -21,10 +21,10 @@
         "live": "https://myevents-s.netlify.app/"
     },
     {
-        "image": "image url",
+        "image": "https://i.imgur.com/GD9oCHv.png",
         "name": "Photography Portfolio",
         "description": "An application that works as a portfolio for a photographer",
-        "github": "https://github.com/SonsOfMagnetism/photography-frontend",
-        "live": "url of project"
+        "github": "https://github.com/SonsOfMagnetism/photo-frontend",
+        "live": "https://photography-vue.netlify.app/"
     }
 ]
