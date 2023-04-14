@@ -10,7 +10,7 @@ justify-content: space-around;
 `
 
 export const ProjectCard = styled.div`
-width: 30%;
+width: 48%;
 min-width: 290px;
 text-align: center;
 margin: 10px;
