@@ -2,21 +2,21 @@
     {
         "image": "https://i.imgur.com/JQFOgjk.png",
         "name": "NBA Player Stats",
-        "description": "App that looks up a player's stats + technologies used",
+        "description": "Developed a front-end application that utilized Javascript, jQuery, and APIs to make API calls and provide users with various functionalities. Designed the application with a fully responsive and mobile-friendly layout using CSS, including grid layouts to provide a user-friendly experience across devices. Utilized tools such as mockflow to create wireframes that served as a foundation for designing the product layout. Independently developed the application, leveraging the knowledge and skills gained during the first unit of class.",
         "github": "https://github.com/SonsOfMagnetism/nba-player-stats",
         "live": "https://nba-player-stats.vercel.app/"
     },
     {
         "image": "https://i.imgur.com/MWTt39D.png",
         "name": "My Anime Watchlist",
-        "description": "A web application that will allow a user to create an account and keep track of any anime they are currrently watching or have completed watching.",
+        "description": "A web application that will allow a user to create an account and keep track of any anime they are currrently watching or have completed watching.Utilized Express, MongoDB, and Node.js to develop a RESTful API with CRUD functionality, testing all backend routes via Postman during development. Defined MongoDB collection schemas using Mongoose to enable smooth data manipulation in the backend. Leveraged EJS and CSS3, including Styled-Components, to create a visually appealing and responsive grid layout in the front-end.",
         "github": "https://www.github.com/SonsOfMagnetism/anime-watchlist",
         "live": "https://anime-watchlist.herokuapp.com/"
     },
     {
         "image": "https://i.imgur.com/2ACHl3W.png",
         "name": "My Events",
-        "description": "App that works as an event planner",
+        "description": "App that works as an event planner. Developed a mobile-first full-stack MERN (MongoDB, Express, React.js, Node.js) application, providing all CRUD functionality through RESTful API calls. Collaborated on a group project, creating an event-tracking app that enables users to manage their schedule of upcoming events. Implemented mobile-first design principles using Styled-Components, CSS3, and flexbox to provide an optimized user experience.",
         "github": "https://github.com/Alex-dev7/Project3-myEvents-frontend",
         "live": "https://myevents-s.netlify.app/"
     },
