@@ -9,6 +9,7 @@ export default function Bio(props){
             <h1 style={{paddingTop:"25px"}}>{about.email}</h1>
             <br/>
             <p style={{paddingBottom:"25px"}}>{about.bio}</p>
+            <img class="technologiescube" src={about.techstack} />
         </BioContainer>
     )
 }
