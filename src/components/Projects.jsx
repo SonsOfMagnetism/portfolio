@@ -6,7 +6,7 @@ export default function Projects(){
         {
             projects.map((project) => (
                 <ProjectCard key={project.name}>
-                    <h3 style={{paddingBottom:"25px"}}>{project.name}</h3>
+                    <h3 style={{paddingBottom:"10px"}}>{project.name}</h3>
                     <ProjectImage src={project.image} />
                     <ProjectDescription>{project.description}</ProjectDescription>
                     <ProjectLinkContainer>
