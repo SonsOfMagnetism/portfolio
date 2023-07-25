@@ -23,7 +23,7 @@
     {
         "image": "https://i.imgur.com/GD9oCHv.png",
         "name": "Photography Portfolio",
-        "description": "An application that works as a portfolio for a photographer",
+        "description": "This Vue application boasts a sleek frontend interface that offers users an array of features to manage their photo collection with ease. From viewing to creating, deleting, and updating photos, users have complete control over their media library. Its intuitive interface design ensures effortless navigation, empowering users to efficiently manage their favorite photos. What's more, the app integrates with a robust backend service to guarantee secure storage and retrieval of event data.",
         "github": "https://github.com/SonsOfMagnetism/photo-frontend",
         "live": "https://photography-vue.netlify.app/"
     }
