@@ -22,3 +22,18 @@ color: ${theme.color4};
     font-weight: 800;
 }
 `
+export const HeaderLink = styled.a`
+width: 20%;
+padding: 15px;
+font-weight: 800;
+margin: 6px;
+text-decoration: none;
+font-size: 1.1em;
+border-radius: 20px;
+background-color: ${theme.color4};
+color: ${theme.color2};
+&:hover {
+    background-color: ${theme.color3};
+    color: ${theme.color5};
+}
+`
